@@ -20,7 +20,6 @@ namespace HungPhoneShop.Controllers
                 .ToListAsync();
             return View(products);
         }
-
         public IActionResult Privacy()
         {
             return View();

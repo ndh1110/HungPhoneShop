@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HungPhoneShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb0d0a20f571746c11082962f292b8c335472a48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f73ab88bdde66a9a1f4876fa95cb5f0bbf115e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HungPhoneShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HungPhoneShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
